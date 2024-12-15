@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/0eed93fd9a7c48d9bea50d6966f8597e/artifacts
+end_time: 1734276701755
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: 0eed93fd9a7c48d9bea50d6966f8597e
+run_name: suave-gull-54
+run_uuid: 0eed93fd9a7c48d9bea50d6966f8597e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734276701264
+status: 3
+tags: []
+user_id: moussa

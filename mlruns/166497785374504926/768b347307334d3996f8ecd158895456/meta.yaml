@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/768b347307334d3996f8ecd158895456/artifacts
+end_time: 1734275845542
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: 768b347307334d3996f8ecd158895456
+run_name: sassy-ape-298
+run_uuid: 768b347307334d3996f8ecd158895456
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734275842456
+status: 3
+tags: []
+user_id: moussa

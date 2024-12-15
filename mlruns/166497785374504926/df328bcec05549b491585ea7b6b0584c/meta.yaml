@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/df328bcec05549b491585ea7b6b0584c/artifacts
+end_time: 1734288236932
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: df328bcec05549b491585ea7b6b0584c
+run_name: lyrical-loon-116
+run_uuid: df328bcec05549b491585ea7b6b0584c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734288236261
+status: 3
+tags: []
+user_id: moussa

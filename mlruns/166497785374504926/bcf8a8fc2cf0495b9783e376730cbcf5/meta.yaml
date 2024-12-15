@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/bcf8a8fc2cf0495b9783e376730cbcf5/artifacts
+end_time: 1734275702557
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: bcf8a8fc2cf0495b9783e376730cbcf5
+run_name: abundant-turtle-943
+run_uuid: bcf8a8fc2cf0495b9783e376730cbcf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734275699787
+status: 3
+tags: []
+user_id: moussa

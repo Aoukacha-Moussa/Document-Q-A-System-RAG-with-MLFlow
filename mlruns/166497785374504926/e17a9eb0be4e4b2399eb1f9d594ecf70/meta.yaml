@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/e17a9eb0be4e4b2399eb1f9d594ecf70/artifacts
+end_time: 1734275858114
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: e17a9eb0be4e4b2399eb1f9d594ecf70
+run_name: bright-hog-637
+run_uuid: e17a9eb0be4e4b2399eb1f9d594ecf70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734275847646
+status: 3
+tags: []
+user_id: moussa

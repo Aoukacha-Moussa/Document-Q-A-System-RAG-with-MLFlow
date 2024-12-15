@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/a68a683631e84e118ff4f86be9b63985/artifacts
+end_time: 1734276198974
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: a68a683631e84e118ff4f86be9b63985
+run_name: awesome-kite-943
+run_uuid: a68a683631e84e118ff4f86be9b63985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734276198474
+status: 3
+tags: []
+user_id: moussa

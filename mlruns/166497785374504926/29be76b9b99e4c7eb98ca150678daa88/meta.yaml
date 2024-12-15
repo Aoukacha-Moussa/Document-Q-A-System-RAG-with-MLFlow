@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/29be76b9b99e4c7eb98ca150678daa88/artifacts
+end_time: 1734288899296
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: 29be76b9b99e4c7eb98ca150678daa88
+run_name: chill-ant-474
+run_uuid: 29be76b9b99e4c7eb98ca150678daa88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734288883022
+status: 3
+tags: []
+user_id: moussa

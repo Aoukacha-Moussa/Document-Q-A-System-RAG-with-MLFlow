@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/b60aaec96203477e82eec051aae680d4/artifacts
+end_time: 1734276544919
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: b60aaec96203477e82eec051aae680d4
+run_name: agreeable-crane-229
+run_uuid: b60aaec96203477e82eec051aae680d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734276542328
+status: 3
+tags: []
+user_id: moussa

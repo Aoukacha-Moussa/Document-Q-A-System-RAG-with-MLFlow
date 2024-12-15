@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/c57d5f4ba4554e4d8eb4568874b27da7/artifacts
+end_time: 1734276718073
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: c57d5f4ba4554e4d8eb4568874b27da7
+run_name: industrious-wren-96
+run_uuid: c57d5f4ba4554e4d8eb4568874b27da7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734276708675
+status: 3
+tags: []
+user_id: moussa

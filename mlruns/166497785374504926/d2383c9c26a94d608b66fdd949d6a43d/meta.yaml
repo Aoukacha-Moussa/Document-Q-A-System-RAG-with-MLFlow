@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/d2383c9c26a94d608b66fdd949d6a43d/artifacts
+end_time: 1734276176307
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: d2383c9c26a94d608b66fdd949d6a43d
+run_name: bald-flea-720
+run_uuid: d2383c9c26a94d608b66fdd949d6a43d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734276173415
+status: 3
+tags: []
+user_id: moussa

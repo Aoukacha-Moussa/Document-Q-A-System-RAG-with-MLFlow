@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/ea98defce1384b6aa39b84c2c3aa1c49/artifacts
+end_time: 1734276212612
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: ea98defce1384b6aa39b84c2c3aa1c49
+run_name: zealous-lamb-968
+run_uuid: ea98defce1384b6aa39b84c2c3aa1c49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734276204246
+status: 3
+tags: []
+user_id: moussa

@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/624b04b2e8bf40f1917a273c540588e8/artifacts
+end_time: 1734288615525
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: 624b04b2e8bf40f1917a273c540588e8
+run_name: amusing-mink-124
+run_uuid: 624b04b2e8bf40f1917a273c540588e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734288598633
+status: 3
+tags: []
+user_id: moussa

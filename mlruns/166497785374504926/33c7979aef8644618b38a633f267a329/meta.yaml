@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/33c7979aef8644618b38a633f267a329/artifacts
+end_time: 1734274946751
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: 33c7979aef8644618b38a633f267a329
+run_name: gregarious-stag-114
+run_uuid: 33c7979aef8644618b38a633f267a329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734274943955
+status: 3
+tags: []
+user_id: moussa

@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/27dc6c60576c437795f6b0a731224a28/artifacts
+end_time: 1734288242370
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: 27dc6c60576c437795f6b0a731224a28
+run_name: rogue-conch-999
+run_uuid: 27dc6c60576c437795f6b0a731224a28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734288240152
+status: 3
+tags: []
+user_id: moussa

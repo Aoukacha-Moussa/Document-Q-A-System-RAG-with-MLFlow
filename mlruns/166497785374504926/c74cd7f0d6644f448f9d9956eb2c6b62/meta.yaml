@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/c74cd7f0d6644f448f9d9956eb2c6b62/artifacts
+end_time: 1734276542312
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: c74cd7f0d6644f448f9d9956eb2c6b62
+run_name: upset-frog-113
+run_uuid: c74cd7f0d6644f448f9d9956eb2c6b62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734276539757
+status: 3
+tags: []
+user_id: moussa

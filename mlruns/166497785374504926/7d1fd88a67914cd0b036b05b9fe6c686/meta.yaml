@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/7d1fd88a67914cd0b036b05b9fe6c686/artifacts
+end_time: 1734276552571
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: 7d1fd88a67914cd0b036b05b9fe6c686
+run_name: gaudy-seal-691
+run_uuid: 7d1fd88a67914cd0b036b05b9fe6c686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734276539229
+status: 3
+tags: []
+user_id: moussa

@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/83ac005711e64c44a5968689c10b1802/artifacts
+end_time: 1734275103055
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: 83ac005711e64c44a5968689c10b1802
+run_name: amusing-grub-716
+run_uuid: 83ac005711e64c44a5968689c10b1802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734275100245
+status: 3
+tags: []
+user_id: moussa

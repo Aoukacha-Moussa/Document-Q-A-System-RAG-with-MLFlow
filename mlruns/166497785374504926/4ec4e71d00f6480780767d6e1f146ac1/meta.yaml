@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/4ec4e71d00f6480780767d6e1f146ac1/artifacts
+end_time: 1734274952378
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: 4ec4e71d00f6480780767d6e1f146ac1
+run_name: flawless-cub-593
+run_uuid: 4ec4e71d00f6480780767d6e1f146ac1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734274946758
+status: 3
+tags: []
+user_id: moussa

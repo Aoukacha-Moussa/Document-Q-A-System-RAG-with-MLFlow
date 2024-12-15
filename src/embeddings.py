@@ -13,7 +13,6 @@ class EmbeddingManager:
                 "embedding_model": "embed-multilingual-v3.0",
                 "vector_store": "Chroma"
             })
-
             
             embeddings = CohereEmbeddings(
                 cohere_api_key=self.config.COHERE_API_KEY,

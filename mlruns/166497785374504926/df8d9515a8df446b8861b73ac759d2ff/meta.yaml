@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/df8d9515a8df446b8861b73ac759d2ff/artifacts
+end_time: 1734275639278
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: df8d9515a8df446b8861b73ac759d2ff
+run_name: glamorous-toad-974
+run_uuid: df8d9515a8df446b8861b73ac759d2ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734275638775
+status: 3
+tags: []
+user_id: moussa

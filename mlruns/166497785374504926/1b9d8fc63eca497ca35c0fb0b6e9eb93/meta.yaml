@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/1b9d8fc63eca497ca35c0fb0b6e9eb93/artifacts
+end_time: 1734275014822
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: 1b9d8fc63eca497ca35c0fb0b6e9eb93
+run_name: bemused-dove-724
+run_uuid: 1b9d8fc63eca497ca35c0fb0b6e9eb93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734275014208
+status: 3
+tags: []
+user_id: moussa

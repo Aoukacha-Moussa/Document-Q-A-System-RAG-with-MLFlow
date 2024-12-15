@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/18563ba31ba0444c8e774e185bb18af1/artifacts
+end_time: 1734274940964
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: 18563ba31ba0444c8e774e185bb18af1
+run_name: puzzled-squid-415
+run_uuid: 18563ba31ba0444c8e774e185bb18af1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734274940379
+status: 3
+tags: []
+user_id: moussa

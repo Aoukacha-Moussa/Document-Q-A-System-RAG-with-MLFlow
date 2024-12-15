@@ -25,7 +25,6 @@ class DocumentProcessor:
                 chunk_overlap=200
             )
             splits = text_splitter.split_documents(documents)
-
             
             mlflow.log_metric("num_document_chunks", len(splits))
 

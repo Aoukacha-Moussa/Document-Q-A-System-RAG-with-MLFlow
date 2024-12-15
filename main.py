@@ -4,12 +4,12 @@ from src.data_processing import DocumentProcessor
 from src.embeddings import EmbeddingManager
 from src.qa_pipeline import QAPipeline
 
-def main():
+def process_question(question):
     mlflow.set_tracking_uri(Config.MLFLOW_TRACKING_URI)
     mlflow.set_experiment(Config.EXPERIMENT_NAME)
 
-    
     with mlflow.start_run():
+        mlflow.log_param("input_question", question)
         
         doc_processor = DocumentProcessor(Config)
         documents = doc_processor.load_and_split_document()
@@ -19,15 +19,18 @@ def main():
 
         qa_pipeline = QAPipeline(Config, retriever)
         
-        
-        question = "ce-quoi le role de la loi 01-00"
         sub_questions = qa_pipeline.generate_decomposition_queries(question)
+        mlflow.log_metric("num_subquestions", len(sub_questions))
 
-        print("Sub-questions generated:", sub_questions)
-
-        
         decomposition_qa = qa_pipeline.generate_decomposition_qa(sub_questions)
-        print("Decomposition QA:", decomposition_qa)
+        mlflow.log_metric("q_a_pairs_length", len(decomposition_qa))
+
+        return decomposition_qa
 
 if __name__ == "__main__":
-    main()
+    #question = "Quels sont les objectifs principaux de l'enseignement supérieur selon cette loi ?"
+    #question = "Quels sont les rôles du conseil de l’université selon l’article 12 ?"
+    #question = "How does this law ensure equality in access to higher education?"
+    question = "What penalties are described for unauthorized private higher education institutions?"
+    response = process_question(question)
+    print(response)

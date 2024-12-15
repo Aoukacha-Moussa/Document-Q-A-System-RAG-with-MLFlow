@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/799f12a77bb64325b91aed1b5e6b5f1b/artifacts
+end_time: 1734288899286
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: 799f12a77bb64325b91aed1b5e6b5f1b
+run_name: melodic-wren-365
+run_uuid: 799f12a77bb64325b91aed1b5e6b5f1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734288887311
+status: 3
+tags: []
+user_id: moussa

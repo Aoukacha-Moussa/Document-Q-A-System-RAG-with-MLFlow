@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/fd0553e507f54775a85bafbcac27968e/artifacts
+end_time: 1734276173411
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: fd0553e507f54775a85bafbcac27968e
+run_name: marvelous-penguin-11
+run_uuid: fd0553e507f54775a85bafbcac27968e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734276172923
+status: 3
+tags: []
+user_id: moussa

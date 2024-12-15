@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/679f0ca28a064fff915eb99b5dea9782/artifacts
+end_time: 1734275100240
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: 679f0ca28a064fff915eb99b5dea9782
+run_name: adorable-dolphin-263
+run_uuid: 679f0ca28a064fff915eb99b5dea9782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734275099675
+status: 3
+tags: []
+user_id: moussa

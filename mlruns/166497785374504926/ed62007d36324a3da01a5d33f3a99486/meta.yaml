@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/ed62007d36324a3da01a5d33f3a99486/artifacts
+end_time: 1734276204231
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: ed62007d36324a3da01a5d33f3a99486
+run_name: rare-duck-669
+run_uuid: ed62007d36324a3da01a5d33f3a99486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734276201701
+status: 3
+tags: []
+user_id: moussa

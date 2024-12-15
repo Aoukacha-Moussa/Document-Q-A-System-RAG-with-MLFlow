@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/744a06a2de8b41db9162584b77a04eef/artifacts
+end_time: 1734275842452
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: 744a06a2de8b41db9162584b77a04eef
+run_name: nebulous-cow-442
+run_uuid: 744a06a2de8b41db9162584b77a04eef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734275841956
+status: 3
+tags: []
+user_id: moussa

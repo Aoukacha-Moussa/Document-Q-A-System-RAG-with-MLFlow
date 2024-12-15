@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/476db793e8b040879e37e24fe7075bbc/artifacts
+end_time: 1734275645323
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: 476db793e8b040879e37e24fe7075bbc
+run_name: sincere-eel-857
+run_uuid: 476db793e8b040879e37e24fe7075bbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734275642971
+status: 3
+tags: []
+user_id: moussa

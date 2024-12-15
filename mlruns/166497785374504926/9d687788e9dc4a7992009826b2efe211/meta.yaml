@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/9d687788e9dc4a7992009826b2efe211/artifacts
+end_time: 1734288883228
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: 9d687788e9dc4a7992009826b2efe211
+run_name: unique-snake-469
+run_uuid: 9d687788e9dc4a7992009826b2efe211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734288883044
+status: 3
+tags: []
+user_id: moussa

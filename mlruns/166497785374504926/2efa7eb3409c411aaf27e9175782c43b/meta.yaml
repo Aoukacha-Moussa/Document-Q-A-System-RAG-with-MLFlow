@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/2efa7eb3409c411aaf27e9175782c43b/artifacts
+end_time: 1734275567091
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: 2efa7eb3409c411aaf27e9175782c43b
+run_name: grandiose-hound-625
+run_uuid: 2efa7eb3409c411aaf27e9175782c43b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734275564101
+status: 3
+tags: []
+user_id: moussa

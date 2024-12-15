@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/3054b958fe6c4aa4ab63b234bbceb316/artifacts
+end_time: 1734276020744
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: 3054b958fe6c4aa4ab63b234bbceb316
+run_name: whimsical-sloth-539
+run_uuid: 3054b958fe6c4aa4ab63b234bbceb316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734276020240
+status: 3
+tags: []
+user_id: moussa

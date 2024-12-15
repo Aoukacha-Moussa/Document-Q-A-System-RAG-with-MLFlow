@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/d273c9af136149d0bc341d85eaa7262d/artifacts
+end_time: 1734276023313
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: d273c9af136149d0bc341d85eaa7262d
+run_name: abrasive-shrew-113
+run_uuid: d273c9af136149d0bc341d85eaa7262d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734276020748
+status: 3
+tags: []
+user_id: moussa

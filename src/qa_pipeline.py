@@ -2,7 +2,7 @@ import mlflow
 from langchain.prompts import ChatPromptTemplate
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.output_parsers import StrOutputParser
-from operator import itemgetter
+from operator import itemgetter 
 
 class QAPipeline:
     def __init__(self, config, retriever):
@@ -68,6 +68,11 @@ class QAPipeline:
             - Répondez en français
             - Utilisez un langage clair et précis
             - Basez votre réponse uniquement sur les informations fournies
+            - Assurez-vous que votre réponse est pertinente et précise
+            - Assurez-vous que votre réponse est bien structurée et cohérente
+            - Assurez-vous que votre réponse est bien argumentée et expliquée
+            - Assurez-vous que votre réponse les sources et les références appropriées 
+
             """
 
             decomposition_prompt = ChatPromptTemplate.from_template(template)

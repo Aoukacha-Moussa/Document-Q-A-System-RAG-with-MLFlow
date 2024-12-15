@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/ae7c84162d47443892bfba7963409ee1/artifacts
+end_time: 1734274943910
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: ae7c84162d47443892bfba7963409ee1
+run_name: omniscient-koi-252
+run_uuid: ae7c84162d47443892bfba7963409ee1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734274940967
+status: 3
+tags: []
+user_id: moussa

@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/e45725601b89433a8877f17da8ee1544/artifacts
+end_time: 1734288240106
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: e45725601b89433a8877f17da8ee1544
+run_name: nervous-asp-544
+run_uuid: e45725601b89433a8877f17da8ee1544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734288236936
+status: 3
+tags: []
+user_id: moussa

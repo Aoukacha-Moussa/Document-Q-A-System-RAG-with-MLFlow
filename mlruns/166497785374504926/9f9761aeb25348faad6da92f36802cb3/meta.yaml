@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/9f9761aeb25348faad6da92f36802cb3/artifacts
+end_time: 1734288600302
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: 9f9761aeb25348faad6da92f36802cb3
+run_name: rambunctious-gnu-707
+run_uuid: 9f9761aeb25348faad6da92f36802cb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734288598778
+status: 3
+tags: []
+user_id: moussa

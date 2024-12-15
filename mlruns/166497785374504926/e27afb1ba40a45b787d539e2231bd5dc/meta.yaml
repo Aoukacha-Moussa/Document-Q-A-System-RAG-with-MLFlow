@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/e27afb1ba40a45b787d539e2231bd5dc/artifacts
+end_time: 1734276178731
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: e27afb1ba40a45b787d539e2231bd5dc
+run_name: nosy-cod-360
+run_uuid: e27afb1ba40a45b787d539e2231bd5dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734276176325
+status: 3
+tags: []
+user_id: moussa

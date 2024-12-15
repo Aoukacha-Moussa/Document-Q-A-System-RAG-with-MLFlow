@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intelligent Chatbot RAG System</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: #3b82f6;
+            --secondary-color: #10b981;
+            --background-color: #f3f4f6;
+            --text-color: #1f2937;
+            --chat-user-color: #e0f2fe;
+            --chat-bot-color: #f0fdf4;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            line-height: 1.6;
+            background-color: var(--background-color);
+            color: var(--text-color);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 15px;
+        }
+
+        header {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            color: white;
+            padding: 1rem 0;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        header .container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        #branding h1 {
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+        }
+
+        #branding h1 i {
+            margin-right: 10px;
+            color: white;
+        }
+
+        .chat-container {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+            margin-top: 30px;
+            overflow: hidden;
+        }
+
+        .chat-box {
+            height: 500px;
+            overflow-y: auto;
+            padding: 20px;
+            background-color: #f9fafb;
+        }
+
+        .chat-message {
+            max-width: 80%;
+            margin-bottom: 15px;
+            padding: 12px 15px;
+            border-radius: 10px;
+            clear: both;
+            position: relative;
+            line-height: 1.4;
+        }
+
+        .chat-message.user {
+            float: right;
+            background-color: var(--chat-user-color);
+            color: #0369a1;
+        }
+
+        .chat-message.bot {
+            float: left;
+            background-color: var(--chat-bot-color);
+            color: #065f46;
+        }
+
+        .chat-input-area {
+            display: flex;
+            padding: 15px;
+            background-color: white;
+            border-top: 1px solid #e5e7eb;
+        }
+
+        .chat-input {
+            flex-grow: 1;
+            padding: 10px 15px;
+            border: 2px solid #e5e7eb;
+            border-radius: 8px;
+            font-size: 16px;
+            margin-right: 10px;
+            transition: border-color 0.3s ease;
+        }
+
+        .chat-input:focus {
+            outline: none;
+            border-color: var(--primary-color);
+        }
+
+        .chat-button {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: transform 0.2s ease;
+        }
+
+        .chat-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #f3f4f6;
+            color: #6b7280;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div id="branding">
+                <h1><i class="fas fa-robot"></i>RAG Chatbot</h1>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <section class="chat-container">
+            <div class="chat-box" id="chat-box">
+                <!-- Chat messages will appear here -->
+            </div>
+            <div class="chat-input-area">
+                <input type="text" id="chat-input" class="chat-input" placeholder="Ask me anything...">
+                <button id="chat-button" class="chat-button">
+                    <i class="fas fa-paper-plane"></i> Send
+                </button>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <p>© 2024 Intelligent RAG Chatbot System</p>
+    </footer>
+
+    <script>
+        document.getElementById('chat-button').addEventListener('click', function() {
+            const input = document.getElementById('chat-input');
+            const chatBox = document.getElementById('chat-box');
+            if (input.value.trim() !== '') {
+                const userMessage = document.createElement('div');
+                userMessage.className = 'chat-message user';
+                userMessage.textContent = input.value;
+                chatBox.appendChild(userMessage);
+
+                fetch('/chat', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ question: input.value })
+                })
+                .then(response => response.json())
+                .then(data => {
+                    const botMessage = document.createElement('div');
+                    botMessage.className = 'chat-message bot';
+                    botMessage.innerHTML = data.response.replace(/\n/g, '<br>');
+                    chatBox.appendChild(botMessage);
+                    chatBox.scrollTop = chatBox.scrollHeight;
+                });
+
+                input.value = '';
+            }
+        });
+    </script>
+</body>
+</html>

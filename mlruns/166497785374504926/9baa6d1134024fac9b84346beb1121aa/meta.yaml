@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/9baa6d1134024fac9b84346beb1121aa/artifacts
+end_time: 1734288602686
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: 9baa6d1134024fac9b84346beb1121aa
+run_name: rumbling-yak-913
+run_uuid: 9baa6d1134024fac9b84346beb1121aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734288600308
+status: 3
+tags: []
+user_id: moussa
