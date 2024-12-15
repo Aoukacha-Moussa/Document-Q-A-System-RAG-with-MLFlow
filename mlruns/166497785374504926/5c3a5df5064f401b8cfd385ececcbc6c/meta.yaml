@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/5c3a5df5064f401b8cfd385ececcbc6c/artifacts
+end_time: 1734271267927
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: 5c3a5df5064f401b8cfd385ececcbc6c
+run_name: angry-sponge-254
+run_uuid: 5c3a5df5064f401b8cfd385ececcbc6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734271264817
+status: 3
+tags: []
+user_id: moussa

@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/7b2420daee304576aabdd785ef0db204/artifacts
+end_time: 1734271225050
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: 7b2420daee304576aabdd785ef0db204
+run_name: debonair-fawn-84
+run_uuid: 7b2420daee304576aabdd785ef0db204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734271224715
+status: 4
+tags: []
+user_id: moussa

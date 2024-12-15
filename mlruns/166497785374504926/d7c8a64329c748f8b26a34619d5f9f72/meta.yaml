@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/d7c8a64329c748f8b26a34619d5f9f72/artifacts
+end_time: 1734272008048
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: d7c8a64329c748f8b26a34619d5f9f72
+run_name: fearless-bug-923
+run_uuid: d7c8a64329c748f8b26a34619d5f9f72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734272005598
+status: 3
+tags: []
+user_id: moussa

@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/522c5f331321470183564054359bc690/artifacts
+end_time: 1734272018290
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: 522c5f331321470183564054359bc690
+run_name: adventurous-kit-377
+run_uuid: 522c5f331321470183564054359bc690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734272008052
+status: 3
+tags: []
+user_id: moussa

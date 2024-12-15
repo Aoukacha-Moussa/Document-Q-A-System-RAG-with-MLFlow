@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/3bdb2132fb00475bbe234e9c8fcaa12d/artifacts
+end_time: 1734271183433
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: 3bdb2132fb00475bbe234e9c8fcaa12d
+run_name: bemused-shark-759
+run_uuid: 3bdb2132fb00475bbe234e9c8fcaa12d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734271183404
+status: 4
+tags: []
+user_id: moussa

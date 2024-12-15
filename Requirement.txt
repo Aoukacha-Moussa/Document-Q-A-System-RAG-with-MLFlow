@@ -1,0 +1,8 @@
+mlflow==2.9.2
+langchain==0.1.0
+google-generativeai
+cohere
+python-dotenv
+pypdf
+tiktoken
+langchain-community

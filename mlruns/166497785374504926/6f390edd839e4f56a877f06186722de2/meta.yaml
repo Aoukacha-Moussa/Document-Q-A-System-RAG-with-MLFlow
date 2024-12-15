@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/6f390edd839e4f56a877f06186722de2/artifacts
+end_time: 1734271270352
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: 6f390edd839e4f56a877f06186722de2
+run_name: gentle-mule-912
+run_uuid: 6f390edd839e4f56a877f06186722de2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734271267968
+status: 3
+tags: []
+user_id: moussa

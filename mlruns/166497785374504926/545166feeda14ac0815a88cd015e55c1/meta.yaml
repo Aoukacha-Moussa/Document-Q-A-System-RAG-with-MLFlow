@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/545166feeda14ac0815a88cd015e55c1/artifacts
+end_time: 1734271183432
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: 545166feeda14ac0815a88cd015e55c1
+run_name: beautiful-shark-625
+run_uuid: 545166feeda14ac0815a88cd015e55c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734271183417
+status: 4
+tags: []
+user_id: moussa

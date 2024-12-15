@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/036849f39e7947539e27906d29a2a149/artifacts
+end_time: 1734271225047
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: 036849f39e7947539e27906d29a2a149
+run_name: judicious-bug-84
+run_uuid: 036849f39e7947539e27906d29a2a149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734271224751
+status: 4
+tags: []
+user_id: moussa
