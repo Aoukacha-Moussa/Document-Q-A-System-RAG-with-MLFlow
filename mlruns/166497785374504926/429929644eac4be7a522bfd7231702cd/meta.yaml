@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/429929644eac4be7a522bfd7231702cd/artifacts
+end_time: 1734354660042
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: 429929644eac4be7a522bfd7231702cd
+run_name: melodic-sow-290
+run_uuid: 429929644eac4be7a522bfd7231702cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734354655409
+status: 3
+tags: []
+user_id: moussa

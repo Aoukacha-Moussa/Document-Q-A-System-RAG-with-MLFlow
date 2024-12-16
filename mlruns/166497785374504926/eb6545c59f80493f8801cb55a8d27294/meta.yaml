@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/eb6545c59f80493f8801cb55a8d27294/artifacts
+end_time: 1734354708854
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: eb6545c59f80493f8801cb55a8d27294
+run_name: selective-stoat-737
+run_uuid: eb6545c59f80493f8801cb55a8d27294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734354704897
+status: 3
+tags: []
+user_id: moussa

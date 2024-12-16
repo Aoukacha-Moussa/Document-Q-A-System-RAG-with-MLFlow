@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/e893d3522dff43e08cea6dc79dace13a/artifacts
+end_time: 1734354483938
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: e893d3522dff43e08cea6dc79dace13a
+run_name: dazzling-hare-524
+run_uuid: e893d3522dff43e08cea6dc79dace13a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734354483608
+status: 4
+tags: []
+user_id: moussa

@@ -1,0 +1,15 @@
+artifact_uri: /home/moussa/Desktop/MLFlow_RAG/mlruns/166497785374504926/d4bf5d768f494ce4b6dc402f4fb18b69/artifacts
+end_time: 1734354352545
+entry_point_name: ''
+experiment_id: '166497785374504926'
+lifecycle_stage: active
+run_id: d4bf5d768f494ce4b6dc402f4fb18b69
+run_name: nosy-snail-691
+run_uuid: d4bf5d768f494ce4b6dc402f4fb18b69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734354352235
+status: 4
+tags: []
+user_id: moussa
