@@ -3,7 +3,7 @@
 A robust Question-Answering system using RAG (Retrieval-Augmented Generation) with MLflow tracking and Google's Gemini Pro LLM.
 
 ## Architecture
-![System Architecture](image.png)
+![System Architecture](./arch.gif)
 
 ## Key Features
 - **RAG Implementation**: Combines retrieval and generation for accurate responses
